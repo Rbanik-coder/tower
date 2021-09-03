@@ -13,7 +13,6 @@ var ab;
 
 function preload(){
   rock_img=loadImage("rock.png");
-  //bgImg=loadImage("bg1.jpg");
 }
 function setup() {
 
